@@ -1,7 +1,10 @@
-// TODO: Include packages needed for this application
+const inquirer = require('inquirer');
+const fs = require('fs');
+const generateReadme = require('./src/page-template');
 
 // TODO: Create an array of questions for user input
-const questions = [
+const promptQuestions = () => {
+    return inquirer.prompt([
     {
         type: 'input',
         name: 'title',
@@ -66,13 +69,16 @@ const questions = [
         name: 'email',
         message: 'Please enter your e-mail address.'
     }
-];
+]);
+};
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+promptQuestions().then(answers => console.log(answers));
 
-// TODO: Create a function to initialize app
-function init() {}
+//generateReadme ();
+// // TODO: Create a function to write README file
+//function writeToFile(fileName, data) {}
 
-// Function call to initialize app
-init();
+// // TODO: Create a function to initialize app
+// function init() {}
+// // Function call to initialize app
+// init();
