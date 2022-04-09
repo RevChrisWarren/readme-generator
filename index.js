@@ -75,6 +75,9 @@ const promptQuestions = () => {
             {
             name: 'The Unlicense',
             value: 'The_Unlicense'},
+            {
+            name: 'None',
+            value: "None"} 
              ]
     },
     {

@@ -1,8 +1,8 @@
 
-  ![GitHub license](https://img.shields.io/badge/license--blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-None-blue.svg)
   [License Link](http://choosealicense.com/licenses)
 
-  # GHJ'
+  # GHJK
 
   ## Table of Contents
   * [Description](#description)
@@ -15,25 +15,27 @@
   * [E-mail Address](#e-mail-address)
 
   ## Description
-  dsfg
+  d
   
   ## Installation Instructions
-  tru
+  d
   
   ## Usage
- fg
+ d
   
   ## Contributing
-  bfvn
+  f
   
   ## Tests
-  fg
+  f
   
   
+    ## Licensing
+    None
   
   ## GitHub Username
-  df
+  f
   
   ## E-mail Address
-  j
+  f
   
