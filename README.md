@@ -1,8 +1,8 @@
 
-  ![GitHub license](https://img.shields.io/badge/license-Mozilla_PL_2.0-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-The_Unlicense-blue.svg)
   [License Link](http://choosealicense.com/licenses)
 
-  # fsdfd
+  # Professional Read-Me Generator
 
   ## Table of Contents
   * [Description](#description)
@@ -15,26 +15,26 @@
   * [E-mail Address](#e-mail-address)
 
   ## Description
-  fdgfdg
+  This project creates a readme from user prompts
   
   ## Installation Instructions
-  dfgg
+  none available
   
   ## Usage
- dfgdf
+ This is used to create a readme
   
   ## Contributing
-  dfgfd
+  Anyone can contribute
   
   ## Tests
-  fd
+  This project is only tested by the creator
   
   ## Licensing
-  Mozilla_PL_2.0
+  The_Unlicense
   
   ## GitHub Username
-  fdgfg
+  RevChrisWarren
   
   ## E-mail Address
-  dffgd
+  pastorchriswarren@gmail.com
   
