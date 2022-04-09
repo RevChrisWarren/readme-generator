@@ -3,9 +3,9 @@
 function renderLicenseBadge(license) {
   if (license !== 'None') {
     return `![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`
-  }
+  } else {
     return ""
-  
+  }
 }
 
 // TODO: Create a function that returns the license link
@@ -13,9 +13,9 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   if (license !== 'None') {
     return `[License Link](http://choosealicense.com/licenses)`
-  }
+  } else {
     return "";
-  
+  }
 }
 
 // TODO: Create a function that returns the license section of README
@@ -23,10 +23,10 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license !== 'None') {
     return `
-    ## Licensing
     ${license}`
-  }
+  } else{
     return ""
+  }
 }
 
 // TODO: Create a function to generate markdown for README
@@ -68,7 +68,8 @@ function generateMarkdown(data) {
   ## Tests
   ${data.tests}
   
-  ${licenseSection}
+  ## Licensing
+  ${data.license}
   
   ## GitHub Username
   ${data.github}

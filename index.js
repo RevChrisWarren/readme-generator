@@ -54,7 +54,7 @@ const promptQuestions = () => {
         message: 'Please provide information about testing of your project.'
     },
     {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
         message: 'Please select a license for your product 9or press enter for none).',
         choices: [{

@@ -1,8 +1,8 @@
 
-  ![GitHub license](https://img.shields.io/badge/license-None-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-Mozilla_PL_2.0-blue.svg)
   [License Link](http://choosealicense.com/licenses)
 
-  # GHJK
+  # fsdfd
 
   ## Table of Contents
   * [Description](#description)
@@ -15,27 +15,26 @@
   * [E-mail Address](#e-mail-address)
 
   ## Description
-  d
+  fdgfdg
   
   ## Installation Instructions
-  d
+  dfgg
   
   ## Usage
- d
+ dfgdf
   
   ## Contributing
-  f
+  dfgfd
   
   ## Tests
-  f
+  fd
   
-  
-    ## Licensing
-    None
+  ## Licensing
+  Mozilla_PL_2.0
   
   ## GitHub Username
-  f
+  fdgfg
   
   ## E-mail Address
-  f
+  dffgd
   
