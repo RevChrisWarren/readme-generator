@@ -1,5 +1,5 @@
 
-  ![GitHub license](https://img.shields.io/badge/license-Mozilla_PL_2.0-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license--blue.svg)
   [License Link](http://choosealicense.com/licenses)
 
   # asd
@@ -21,16 +21,16 @@
   asd
   
   ## Usage
- asd
+ ads
   
   ## Contributing
-  asd
+  ads
   
   ## Tests
-  asd
+  ad
   
   ## Licensing
-  Mozilla_PL_2.0
+  
   
   ## GitHub Username
   asd
